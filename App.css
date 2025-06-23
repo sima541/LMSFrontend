@@ -1,0 +1,25 @@
+/* App.css */
+.wrapper {
+  padding: 20px;
+}
+.navbar{
+  display: flex;
+  text-align: center;
+  background-color: aqua;
+  width:100vw ;
+  height: 100px;
+}
+.content{
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+}
+.home-container{
+  display: flex;
+justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 64vh;
+  background-color: rgb(73, 102, 98);
+ 
+}
